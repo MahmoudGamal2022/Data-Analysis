@@ -41,5 +41,4 @@ Through writing code, I'm able to answer the following questions about the bike 
 
 
 
-## The Interactive Experience
-For a more interactive experience, I wrote a script that took raw input in the terminal to present the statistics. Below screenshots show the results after requesting for information in Chicago for the month of January on Sunday:
+
