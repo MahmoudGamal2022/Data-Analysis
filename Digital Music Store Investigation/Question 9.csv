@@ -1,0 +1,25 @@
+Name,GenreId,sum_genre
+Rock,1,826.650000000006
+Latin,7,382.140000000002
+Metal,3,261.360000000001
+Alternative & Punk,4,241.560000000001
+TV Shows,19,93.5299999999999
+Jazz,2,79.2
+Blues,6,60.39
+Drama,21,57.71
+R&B/Soul,14,40.59
+Classical,24,40.59
+Sci Fi & Fantasy,20,39.8
+Reggae,8,29.7
+Pop,9,27.72
+Soundtrack,10,19.8
+Comedy,22,17.91
+Hip Hop/Rap,17,16.83
+Bossa Nova,11,14.85
+Alternative,23,13.86
+World,16,12.87
+Science Fiction,18,11.94
+Heavy Metal,13,11.88
+Electronica/Dance,15,11.88
+Easy Listening,12,9.9
+Rock And Roll,5,5.94
